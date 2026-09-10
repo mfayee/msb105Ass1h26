@@ -22,7 +22,9 @@ abstract: "Et kort sammendrag, en til to avsnitt."
 
 ## Introduksjon
 
-Hva handler artikkelen om? Hva blir diskutert? Hvorfor er dette viktig?
+Artikkelen handler om betydningen av robust og pålitelig vitenskap, med særlig vekt på reproduserbarhet og replikerbarhet. Reproduserbarhet innebærer at andre forskere kan oppnå de samme resultatene ved å bruke de opprinnelige dataene og metodene, mens replikerbarhet innebærer at tilsvarende resultater kan oppnås i ny studie med nye data. Det diskuteres hvordan puplikasjonsskjevhet, mangelfull dokumentasjon og et sterkt søkelys på statisk signifikante funn kan svekke forskningens troverdighet.
+
+Slike forhold kan føre til at falske positive resultater blir publisert, mens studier som ikke finner en effekt, forblir upubliserte. Artikkelen trekker også frem replikasjonskrisen innen blant annet psykologi og økonomi og presenterer åpen deling av data, kode og forskningsmetoder som mulige løsninger. Temaet er viktig fordi vitenskaplig utvikling bygger på at forskere kan kontrollere, etterprøve og bygge videre på tidligere studier. Dersom forskningsresultater ikke lar seg gjenskape, kan det føre til feilaktige konklusjoner, sløsing med ressurser og redusert tillit til forskning.
 
 ## Litteraturgjennomgang
 

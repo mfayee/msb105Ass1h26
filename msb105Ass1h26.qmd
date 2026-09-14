@@ -48,6 +48,8 @@ Store replikasjonsprosjekter har gitt empirisk støtte til denne bekymringen. [@
 
 Reproduserbarhet i økonimisk og beregningsbasert forskning
 
+Reproduserbarhet er særlig viktig i økonomisk og beregningbasert forskning fordi resultatene ofte avhenger av omfattende datasett, statistiske analyser og spesialisert programvare. For at andre forskere skal kunne kontrollere resultatene må de derfor få tilgang til både dataene, analysekoden, og en tydelig beskrivelse av fremgangsmåten. [@mccullough2008a] undersøkte dataarkivene til flere økonomiske tidsskrifter og fant at materialet som var tilgjengelig, ofte ikke var tilstrekkelig nok for å kunne gjenskape publiserte resultater. Manglende data, feil i kode og utilstrekkelig dokumentasjon kan dermed redusere forskningens etterprøvbarhet.
+
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
 - Burde replikerbarhet være et krav eller er det å be om for mye?

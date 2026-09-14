@@ -48,6 +48,10 @@ Publikasjonsskjevhet og falske positive funn
 
 [@rosenthal1979] beskriver filskuff problemet som en situasjon der studier uten statisk signifikante resultater i mindre grad publiseres. Den tilgjengelige forskningslitteraturen kan derfor inneholde en uforholdsmessig stor andel positive funn. Dette skaper da et skjevt og urealistisk bilde av vitenskaplig virkelighet. [@young2008] argumenterer også for at en slik publikasjonspraksis kan gi et misvisende og forvrengt bilde av den samlende vitenskaplige kunnskapen og at den andelen funn som publiseres ikke er representativ nok for forskernes gjentatte utvalg av den virkelige verden.
 
+Replikasjonskrise
+
+Replikasjonskrise viser til bekymring ettersom en betydelig andel publiserte forskningsfunn ikke kan gejnskapes i nye undersøkelser. [@ioannidis2005b] argumentere for at mange forskningsfunn kan være feil på grunn av små utvalg, svake forskningsdesign og selektiv publisering av av statisk signifikante resultater. Problemet kan forsterkes når forskere har stor fleksibilitet når det gjelder hvilke observasjoner, variabler og analytiske emetoder som benyttes [@ioannidis2005b]. [@simmons2011] viser hvordan en slik fleksibilitet kan øke sannsynligheten for falske positive resultater, der forskerne konkluderer med at det finnes en effekt selv om det ikke eksisterer i virkeligheten. Replikasjonskrise handler altså om både kvaliteten på enkeltstudier og om hvordan forkningssystemet belønner positive og interessante funn og hvor enkelt det er å skape disse funnene.
+
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
 - Burde replikerbarhet være et krav eller er det å be om for mye?

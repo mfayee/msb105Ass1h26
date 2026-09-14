@@ -44,6 +44,10 @@ Definisjoner
 
 Reproduserbarhet defineres som *«En forskers evne til å duplisere resultatene fra en tidligere studie ved å bruke de samme materialene og prosedyrene som ble brukt av den opprinnelige etterforskeren. Så i et forsøk på å reprodusere en publisert statistisk analyse, kan en annen forsker bruke de samme rådataene til å bygge de samme analysefilene og implementere den samme statistiske analysen for å avgjøre om de gir de samme resultatene.» **!!!*****Bollen kilde!!!.** Replikerbarhet innebærer derimot at resultatet undersøkes på nytt med nye data [@goodman2016b].
 
+Publikasjonsskjevhet og falske positive funn
+
+[@rosenthal1979] beskriver filskuff problemet som en situasjon der studier uten statisk signifikante resultater i mindre grad publiseres. Den tilgjengelige forskningslitteraturen kan derfor inneholde en uforholdsmessig stor andel positive funn. Dette skaper da et skjevt og urealistisk bilde av vitenskaplig virkelighet. [@young2008] argumenterer også for at en slik publikasjonspraksis kan gi et misvisende og forvrengt bilde av den samlende vitenskaplige kunnskapen og at den andelen funn som publiseres ikke er representativ nok for forskernes gjentatte utvalg av den virkelige verden.
+
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
 - Burde replikerbarhet være et krav eller er det å be om for mye?

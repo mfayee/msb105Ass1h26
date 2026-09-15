@@ -28,35 +28,37 @@ Slike forhold kan føre til at falske positive resultater blir publisert, mens s
 
 ## Litteraturgjennomgang
 
-Republiserbarhet
+**Republiserbarhet**
 
 [@mcnutt2014] understreker at vitenskapelig fremgang avhenger av at forskningsresultater er pålitelige og kan etterprøves av andre. Muligheten til å gjenskape tidligere studier bildrar til å styrke tilliten til konklusjonene og resultatene som fremkommer, men flere fagfellevurderte studier har vist seg å være vanskelige å reprodusere. Dette skaper usikkerhet rundt hvor robuste publiserte forkningsfunn egentlig er. Reproduserbarhet bør derfor forstås som en sentral forutsetning for at forskere skal kunne kontrollere og bygge videre på eksisterende kunnskap [@mcnutt2014].
 
-Definisjoner
+**Definisjoner**
 
 Reproduserbarhet defineres som *«En forskers evne til å duplisere resultatene fra en tidligere studie ved å bruke de samme materialene og prosedyrene som ble brukt av den opprinnelige etterforskeren. Så i et forsøk på å reprodusere en publisert statistisk analyse, kan en annen forsker bruke de samme rådataene til å bygge de samme analysefilene og implementere den samme statistiske analysen for å avgjøre om de gir de samme resultatene.» **!!!*****Bollen kilde!!!.** Replikerbarhet innebærer derimot at resultatet undersøkes på nytt med nye data [@goodman2016b].
 
-Publikasjonsskjevhet og falske positive funn
+**Publikasjonsskjevhet og falske positive funn**
 
 [@rosenthal1979] beskriver filskuff problemet som en situasjon der studier uten statisk signifikante resultater i mindre grad publiseres. Den tilgjengelige forskningslitteraturen kan derfor inneholde en uforholdsmessig stor andel positive funn. Dette skaper da et skjevt og urealistisk bilde av vitenskaplig virkelighet. [@young2008] argumenterer også for at en slik publikasjonspraksis kan gi et misvisende og forvrengt bilde av den samlende vitenskaplige kunnskapen og at den andelen funn som publiseres ikke er representativ nok for forskernes gjentatte utvalg av den virkelige verden.
 
-Replikasjonskrise
+**Replikasjonskrise**
 
 Replikasjonskrise viser til bekymring ettersom en betydelig andel publiserte forskningsfunn ikke kan gejnskapes i nye undersøkelser. [@ioannidis2005b] argumentere for at mange forskningsfunn kan være feil på grunn av små utvalg, svake forskningsdesign og selektiv publisering av av statisk signifikante resultater. Problemet kan forsterkes når forskere har stor fleksibilitet når det gjelder hvilke observasjoner, variabler og analytiske emetoder som benyttes [@ioannidis2005b]. [@simmons2011] viser hvordan en slik fleksibilitet kan øke sannsynligheten for falske positive resultater, der forskerne konkluderer med at det finnes en effekt selv om det ikke eksisterer i virkeligheten. Replikasjonskrise handler altså om både kvaliteten på enkeltstudier og om hvordan forkningssystemet belønner positive og interessante funn og hvor enkelt det er å skape disse funnene.
 
 Store replikasjonsprosjekter har gitt empirisk støtte til denne bekymringen. [@opensciencecollaboration2015] forsøkte å replikere 100 studier publisert i tre anerkjente psykologiske tidsskrifter. Mens 97 prosent av originalstudiene rapporterte statisk signifikante resultater, gjorde bare 36 prosent av de replikterte studiene det samme. Effektene i de replikerte studiene var også i gjennomsnitt halvparten så store som i orgiginalstudiene som viser hvor liten andel av studiene som man kan teste å få samme resultat. I en annen undersøkelse gjennomførte [@klein2018b] replikasjoner av 28 publiserte funn på tvers av utvalg og forskningsmiljøer. Av disse ga 15 en statisk signifikant effekt i samme retning som det opprinnelige funnet. Dette er da over halvparten av funnene. Resultatene viser at flere etablerte funn kan være mindre robuste enn orginalstudiene antyder, og dette understreker viktigheten og behovet for replikasjoner, åpenhet og grundig dokumentasjon av forskningsprosessen.
 
-Reproduserbarhet i økonimisk og beregningsbasert forskning
+**Reproduserbarhet i økonimisk og beregningsbasert forskning**
 
 Reproduserbarhet er særlig viktig i økonomisk og beregningbasert forskning fordi resultatene ofte avhenger av omfattende datasett, statistiske analyser og spesialisert programvare. For at andre forskere skal kunne kontrollere resultatene må de derfor få tilgang til både dataene, analysekoden, og en tydelig beskrivelse av fremgangsmåten. [@mccullough2008a] undersøkte dataarkivene til flere økonomiske tidsskrifter og fant at materialet som var tilgjengelig, ofte ikke var tilstrekkelig nok for å kunne gjenskape publiserte resultater. Manglende data, feil i kode og utilstrekkelig dokumentasjon kan dermed redusere forskningens etterprøvbarhet.
 
-[@peng2011] fremhever at reproduserbarhet bør være et minimumskrav i beregningsbasert forskning, særlig når det ikke er praktisk mulig å gjennomføre en fullstendig replikasjon med nye data. En mulig løsning er å samle tekst, data og analysekode i et dokument, slik at leseren kan følge analysen og generere resultatene på nytt [@gentleman2007b]. Dette kan gjøre forskningsprosessen mer åpen, men det forutsetter at materialet er fullstendig og forståelig for andre .
+[@peng2011] fremhever at reproduserbarhet bør være et minimumskrav i beregningsbasert forskning, særlig når det ikke er praktisk mulig å gjennomføre en fullstendig replikasjon med nye data. En mulig løsning er å samle tekst, data og analysekode i et dokument, slik at leseren kan følge analysen og generere resultatene på nytt [@gentleman2007b]. Dette kan gjøre forskningsprosessen mer åpen, men det forutsetter at materialet er fullstendig og forståelig for andre.
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
 - Burde replikerbarhet være et krav eller er det å be om for mye?
 - Kan Quarto dokumenter hjelpe med å oppnå reproduserbarhet?
 - Hvilke problem gjenstår og hvordan kan disse løses?
+
+Avsnitt om
 
 ## Konklusjon
 

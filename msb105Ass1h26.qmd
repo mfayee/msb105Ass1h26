@@ -54,11 +54,7 @@ Reproduserbarhet er særlig viktig i økonomisk og beregningbasert forskning for
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
-- Burde replikerbarhet være et krav eller er det å be om for mye?
-- Kan Quarto dokumenter hjelpe med å oppnå reproduserbarhet?
-- Hvilke problem gjenstår og hvordan kan disse løses?
-
-Avsnitt med kilder nosek, gentlemen, og jasney
+Litteraturen tyder på at større åpenhet er et sentralt tiltak for å styrke forskningens republiserbarhet. @nosek2015 mener at tidsskrifter og forskningsinstutisjoner kan fremme en åpen forskningskultur ved å stille tydeligere krav til deling av data, kode og forskningsmateriale. @jasny2011b fremhever samtidig at replikasjon er avgjørende for å bygge tillit til vitenskapelige funn, men at forskere ofte mangler insentiver til å gjennomføre og publisere slike studier. @gentleman2007b foreslår da som nevvt beregningsbare dokumenter som en praktisk løsning, der tekst, data og analysekode samles slik at analysen kan gjennomføres på nytt noe som kan gjøre forskningsprosessen mer gjennomsiktig.
 
 ## Konklusjon
 

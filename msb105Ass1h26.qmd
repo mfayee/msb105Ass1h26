@@ -58,7 +58,7 @@ Reproduserbarhet er særlig viktig i økonomisk og beregningbasert forskning for
 - Kan Quarto dokumenter hjelpe med å oppnå reproduserbarhet?
 - Hvilke problem gjenstår og hvordan kan disse løses?
 
-Avsnitt om
+Avsnitt med kilder nosek, gentlemen, og jasney
 
 ## Konklusjon
 

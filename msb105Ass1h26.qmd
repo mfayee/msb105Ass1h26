@@ -20,6 +20,10 @@ bibliography: reproducibility.bib
 abstract: "Et kort sammendrag, en til to avsnitt."
 ---
 
+**Abstract**
+
+Denne oppgaven undersøker hvilke tiltak som kan styrke reproduserbarheten og gjøre forskning mer robust og pålitelig. Publikasjonsskjevhet, selektiv rapportering og mangelfull dokumentasjon kan gjøre forskningsresultater vanskelige å gjenskape. Oppgaven viser at åpen deling av data og kode, forhåndsregistrering, bedre dokumentasjon og større anerkjennelse av replikasjonsstudier er sentrale tiltak for å styrke forskningens troverdighet.
+
 ## Introduksjon
 
 Artikkelen handler om betydningen av robust og pålitelig vitenskap, med særlig vekt på reproduserbarhet og replikerbarhet. Reproduserbarhet innebærer at andre forskere kan oppnå de samme resultatene ved å bruke de opprinnelige dataene og metodene, mens replikerbarhet innebærer at tilsvarende resultater kan oppnås i ny studie med nye data. Det diskuteres hvordan puplikasjonsskjevhet, mangelfull dokumentasjon og et sterkt søkelys på statisk signifikante funn kan svekke forskningens troverdighet.
@@ -52,7 +56,7 @@ Reproduserbarhet er særlig viktig i økonomisk og beregningbasert forskning for
 
 [@peng2011] fremhever at reproduserbarhet bør være et minimumskrav i beregningsbasert forskning, særlig når det ikke er praktisk mulig å gjennomføre en fullstendig replikasjon med nye data. En mulig løsning er å samle tekst, data og analysekode i et dokument, slik at leseren kan følge analysen og generere resultatene på nytt [@gentleman2007b]. Dette kan gjøre forskningsprosessen mer åpen, men det forutsetter at materialet er fullstendig og forståelig for andre.
 
-## Diskusjon av forskningsspørsmålet (problemstillingen)
+## Diskusjon 
 
 Litteraturen tyder på at større åpenhet er et sentralt tiltak for å styrke forskningens republiserbarhet. @nosek2015 mener at tidsskrifter og forskningsinstutisjoner kan fremme en åpen forskningskultur ved å stille tydeligere krav til deling av data, kode og forskningsmateriale. @jasny2011b fremhever samtidig at replikasjon er avgjørende for å bygge tillit til vitenskapelige funn, men at forskere ofte mangler insentiver til å gjennomføre og publisere slike studier. @gentleman2007b foreslår da som nevvt beregningsbare dokumenter som en praktisk løsning, der tekst, data og analysekode samles slik at analysen kan gjennomføres på nytt noe som kan gjøre forskningsprosessen mer gjennomsiktig.
 
@@ -71,10 +75,10 @@ Litteraturen viser at forskningens robusthet og pålitelighet kan styrkes gjenno
 
 ## Appendiks A
 
-- Versjon nummer og referanse til R pakken brukt i dokumentet
-- R versjon brukt, med referanse
+Analyse og dokumentet ble utarbeidet med R versjon 4.6.1 (2026-06-24)
+
+versjon nummer og referanse til r pakken brukt i dokumentet
 
 ## Appendiks B
 
-- Hvordan er KI brukt
-- Husk invitasjon til chat
+- [https://chatgpt.com/share/6aa91d4b-2788-83eb-bced-9fdfd6838480https://chatgpt.com/share/6aa91d4b-2788-83eb-bced-9fdfd6838480](https://chatgpt.com/share/6aa91d4b-2788-83eb-bced-9fdfd6838480)

@@ -1,0 +1,12 @@
+---
+title: "kommentarer"
+format: html
+editor: source
+---
+
+- forelår å legge *.pdf og *.html inn i .gitignore. Git trenger ikke bry seg med disse. Vi kan generere dem fra qmd dokumentet. I Terminal fanen må du gi besvergelsen: 
+
+`git rm -r --cached .; git add .`
+
+for at dette skal få effekt
+

@@ -2,11 +2,24 @@
 title: "kommentarer"
 format: html
 editor: source
+bibliography: ag.bib
 ---
 
 - forelår å legge *.pdf og *.html inn i .gitignore. Git trenger ikke bry seg med disse. Vi kan generere dem fra qmd dokumentet. I Terminal fanen må du gi besvergelsen: 
 
-`git rm -r --cached .; git add .`
+`git rm -r --cached .; git add .` for at dette skal få effekt
 
-for at dette skal få effekt
+- La abstract til YAML header, merk bruk av «|». `abstract: |`
+- Endret til `lang: nb` for å få norsk språkdrakt. Ser ut til å være det som trengs nå. (Her har det vært mye frem og tilbake)
+- Angi underavsnitt med `### `og ikke formater med `**`. Dette er hele grunntanken med strukturerte dokumenter. Du angir strukturen, programvaren tar seg av formateringen. Skulle du sterkt føle for å endre på formateringen kan du endre dette ved å editere konfigurasjonsfiler (ikke aktuelt nå).
+- Endret siteringer til «in-text» , dvs fjerner klamme-parentesene,  for dem som ikke er satt på slutten av en setning.
+- Endret til envektor av bib-filer i YAML slik at jeg kan legge til referanser i ag.bib
+- La inn referanse for bollen2015 fra ag.bib
+- La inn det lang sitatet fra @bollen2015 som en «block-quote»
+- Endret **Stodden et al** til @stodden2018. Antar det var denne du mente å sitere.
+- Endret **Hardwicke** til @hardwicke2018. Antar det var denne du ville sitere.
+- Endret **Camerer et al** til @camerer2018. Antar det var denne du ville sitere.
+- Endret **Christensen og migue**l til @christensen2018. Antar det var denne du ville sitere.
+- Fine «commit messages». Fortsett slik.
+- Godkjent
 
